@@ -7,7 +7,7 @@ Core idea: instead of training separate models per task, we train a **hierarchic
 ---
 
 ## Links
-
+- **Project resources (Google Drive folder):** [Open folder](https://drive.google.com/drive/folders/1cD-fpPvPTQtq4z_y06QLqj04nJJuDPZ-?usp=sharing)
 - **Pre-recorded presentation video:** [Watch here](https://www.youtube.com/watch?v=t9AKaAYnjd8)
 - **Presentation slides:** [View slides](https://github.com/SHRENIKJ211/ece5831-2025-final-project/blob/master/reports/HVAE_Micromobility_Presentation.pptx)
 - **Final report:** [Read report](https://github.com/SHRENIKJ211/ece5831-2025-final-project/blob/master/reports/ECE5831_project_final_report_BirvaSevak_ShrenikJadhav.pdf)
